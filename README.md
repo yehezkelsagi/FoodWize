@@ -1,2 +1,1 @@
-# FoodWize
-FoodWize
+
